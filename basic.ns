@@ -9,7 +9,7 @@ tb-set-link-loss $link0 0.001
 
 # Set the OS on a couple.
 tb-set-node-os $nodeA Ubuntu1604-STD
-tb-set-node-os $nodeB Ubuntu1604-STD\
+tb-set-node-os $nodeB Ubuntu1604-STD
 
 $ns rtproto Static
 
